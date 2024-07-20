@@ -5,6 +5,11 @@ Application for configuring 802.1X Wi-Fi networks from eap-config profiles.
 Pre-built versions are available on the [App Store](https://apps.apple.com/no/app/geteduroam/id1504076137)
 and the [Play Store](https://play.google.com/store/apps/details?id=app.eduroam.geteduroam).
 
+[<img src="https://github.com/user-attachments/assets/8963b828-6e5f-471e-8f43-73e1bfc0cc5f"
+     alt="Download on the App Store"
+     height="50">](https://apps.apple.com/no/app/geteduroam/id1504076137)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/user-attachments/assets/6a34039e-e0d9-454c-9f81-93c258d016ae"
+     alt="Get it on Google Play"
+     height="50">](https://play.google.com/store/apps/details?id=app.eduroam.geteduroam)
 
 ## Building
 
